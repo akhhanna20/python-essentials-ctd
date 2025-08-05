@@ -1,0 +1,27 @@
+{
+  "id": "6891f5388d252e51675dd4fb",
+  "title": "Python Essentials",
+  "description": "No description available",
+  "learningObjectives": [
+    "No learning objectives"
+  ],
+  "finalProjectDetails": {
+    "overview": "No final project specified.",
+    "planningResources": [],
+    "submissionInstructions": "No submission instructions provided.",
+    "requirements": [
+      "No requirements specified."
+    ]
+  },
+  "createdBy": {
+    "name": "Hanna Akhramchuk",
+    "githubUsername": "akhhanna20"
+  },
+  "contributors": [],
+  "status": "pending",
+  "originalGithubUrl": "https://github.com/Code-the-Dream-School/python-essentials",
+  "remoteGithubUrl": "https://github.com/akhhanna20/python-essentials-ctd",
+  "createdAt": "2025-08-05T12:12:40.146Z",
+  "updatedAt": "2025-08-05T12:12:40.794Z",
+  "lessonCount": 16
+}
